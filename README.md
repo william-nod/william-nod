@@ -1,6 +1,5 @@
+![image](img/header.png)
 ## Hi there, I'm William 👋
-
-
 ### I'm a Software Engineering Student and Web Developer
 <!--
 **william-nod/william-nod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
