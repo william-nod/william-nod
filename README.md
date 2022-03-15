@@ -1,4 +1,4 @@
-![image](img/header.png)
+<!-- ![image](img/header.png) -->
 ## Hi there, I'm William 👋
 ### I'm a Software Engineering Student and Web Developer
 <!--
