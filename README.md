@@ -17,9 +17,9 @@
 
 
 ### Contact Me :
-<a href="https://www.instagram.com/william_krn/">
+<a href="https://www.instagram.com/williamk19/">
 
-!["google.com"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)<a href="https://www.linkedin.com/in/william-nod/">
+!["google.com"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)<a href="https://www.linkedin.com/in/williamk19/">
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:williamkurniawan1144@gmail.com">
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
