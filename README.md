@@ -1,6 +1,6 @@
-<!-- ![image](img/header.png) -->
-## Hi there, I'm William 👋
-### I'm a Software Engineering Student and Web Developer
+![image](img/header.svg)
+## williamk19 ~ William Kurniawan
+### Currently a Software Engineering Student and Web Developer
 <!--
 **william-nod/william-nod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -17,9 +17,8 @@
 ![image](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Contact Me :
-<a href="https://www.instagram.com/williamk19/">
-
-!["google.com"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)<a href="https://www.linkedin.com/in/williamk19/">
+<a href="https://www.instagram.com/williamk19/">!["google.com"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://www.linkedin.com/in/williamk19/">
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:williamkurniawan1144@gmail.com">
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
