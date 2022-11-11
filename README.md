@@ -1,4 +1,4 @@
-![image](img/header.svg)
+<!-- ![image](img/header.svg) -->
 ## williamk19 ~ William Kurniawan
 ### Currently a Software Engineering Student and Web Developer
 <!--
