@@ -1,13 +1,13 @@
 <!-- ![image](img/header.svg) -->
 ## williamk19 ~ William Kurniawan
-### Currently a Software Engineering Student and Web Developer
+### Software Engineer focused on Frontend Development in React Ecosystem
 <!--
 **william-nod/william-nod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning React, node.js, and laravel.
-- 👯 I’m looking to collaborate on open source project.
-- 🚲 Hobby : Sports and Reading.
+- ⚛️ I’m currently learning React, Next.js, Laravel, and Some React Native.
+- 📚 Looking forward to collaborate on open source project.
+- 🚲 Likely to do some sports in my free time.
 
 ### Language and Tools :
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
